@@ -1,2 +1,2 @@
-# pytrhon-basics
+# python-basics
 basics of python
